@@ -5,4 +5,4 @@ To get started, first download the MNIST dataset (including both the training an
 • https://s3.amazonaws.com/jrwprojects/mnist_test_images.npy
 • https://s3.amazonaws.com/jrwprojects/mnist_test_labels.npy
 
-Numpy based Softmax regression and GDS algorithms was used  in this toy model.
+Softmax regression and GDS algorithms was implemented by Numpy from scratch in this MNIST NN machine learning model.
